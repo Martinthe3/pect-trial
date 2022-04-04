@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head> 
+	<link rel ="stylesheet" href="main.css">
+	<title>Pect construction</title>
+</head>
+  <body>  
+     <div class="logo" >
+         <img width="500" height="120" src="images/pet.jpg"/>
+        </div>
+	    <nav>
+            <ul>
+				<li class="active"><a href="index.html">Home</a></li>
+				<li><a href="aboutus.html">About us</a>
+                    <ul>
+            	         <li><a href="aboutus.html">Craftsmanship</a></li>
+				         <li><a href="aboutus.html">Pect </a></li>
+                         <li><a href="aboutus.html">Our philosophy</a></li>
+                         <li><a href="aboutus.html">Our history</a></li>
+                     </ul>
+                  </li>
+				<li><a href="#"></a>
+                    <ul>
+            	         <li><a href="programs.html"></a></li>
+				         <li><a href="programs.html"></a></li>
+                        
+                    </ul>
+                </li>
+				<li><a href="Reviews.html">Reviews</a>
+                     <ul>
+            	        <li><a href="Reviews.html"></a></li>
+				         <li><a href="Reviews.html"></a></li>
+                         <li><a href="Reviews.html"></a></li>
+                        
+                     </ul>
+                </li>
+                <li><a href="elearning.html"></a></li>
+                <li><a href="#"></a>
+                      <ul>
+            	         <li><a href="information.html"></a></li>
+				         <li><a href="feestructure.html"></a></li>
+                         <li><a href="information.html"></a></li>
+                         <li><a href="information.html"></a></li>
+                      </ul>
+                </li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contactus.html">Contact us</a></li>
+           </ul>
+         </nav>
+        <div class ="image1">
+           <img width="1250" height="600" src="images/image1.jpg"/>
+        </div>
+     <div class="container" >
+        <div class="heading" > <H2> Our services </H2>
+         </div>
+         <div class="firstsection" >
+         
+              <img width="500" height="300" src="images/image4.jpg"/> 
+                <h3> General Contracting</h3>
+            <p>
+			    
+From remodeling to building a new home from the ground up, Pect construction is passionate about creating a rewarding construction experience for our clients, our designers and trade partners, and our team.
+			</p>
+         </div>
+		 <div class= "secsection">
+             <img width="500" height="300" src="images/image3.jpg"/> 
+             <h3> Bathroom remodelling </h3>
+          <p>
+			
+            Pect construction can transform any bathroom into a desirable retreat ⁠— bringing the vision of the homeowner to life by redesigning and remodeling their old bathrooms and transforming them into a dream space            </p>
+        </div>
+        <div class= "secsection">
+            <img width="500" height="300" src="images/image31.jpg"/> 
+            <h3> Kitchen Remodeling</h3>
+         <p>
+           
+            
+            Remodeling the kitchen is a great way to give a home a facelift. Working within the client’s budget, Pect construction provides the best service and return on investment
+          </p>
+       </div>
+       <div class= "secsection">
+        <img width="500" height="300" src="images/image32.jpg"/> 
+        <h3> Custom Home Building</h3>
+     <p>         
+        The team at Pect construction possess a powerful understanding of the design process, and the creativity to synthesize it with construction planning         </p>
+   </div>
+      
+    <div class= "secsection">
+        <img width="500" height="300" src="images/image33.jpg"/> 
+        <h3> Room Additions</h3>
+     <p>               
+        Adding additional rooms is an important job and is best left to an experienced room addition contractor. Pect construction. provides renditions of the general and specific areas of the home to present the best plan of action for the new addition
+         </p>
+   </div>    
+   <div class= "secsection">
+    <img width="500" height="300" src="images/image 34.jpg"/> 
+    <h3> Commercial Construction</h3>
+ <p>         
+    
+    Whether you need to renovate a restaurant or build a new, high-end spa, Pect construction quality workmanship makes the planning and construction process simple and easy ⁠— resolving in a practical and attractive commercial space.</div>
+
+       </div>
+       <footer> <p> Copyright @2021 Pect costruction. /All rights reserved/<br> <br> Pectconstruction@gmail.com <br><br> NAIROBI KENYA<br><br> Created by <a href=" https://creativesites.com/"> Creative sites</a> </p>
+        </footer>
+</body>
+</html>
