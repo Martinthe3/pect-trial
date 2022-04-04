@@ -1,2 +1,2 @@
 # pect-trial
-this is just a githubtrial
+this is just a githubtrial.
